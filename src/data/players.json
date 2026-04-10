@@ -1,0 +1,1944 @@
+[
+  {
+    "id": 1,
+    "name": "Belgium",
+    "players": [
+      {
+        "playerId": 20,
+        "playerName": "A. Witsel"
+      },
+      {
+        "playerId": 69,
+        "playerName": "B. Mechele"
+      },
+      {
+        "playerId": 78,
+        "playerName": "H. Vanaken"
+      },
+      {
+        "playerId": 86,
+        "playerName": "L. Openda"
+      },
+      {
+        "playerId": 1417,
+        "playerName": "A. Saelemaekers"
+      },
+      {
+        "playerId": 1422,
+        "playerName": "J. Doku"
+      },
+      {
+        "playerId": 1427,
+        "playerName": "A. Sambi Lokonga"
+      },
+      {
+        "playerId": 1429,
+        "playerName": "Y. Verschaeren"
+      },
+      {
+        "playerId": 1946,
+        "playerName": "L. Trossard"
+      },
+      {
+        "playerId": 2107,
+        "playerName": "Z. Vanheusden"
+      },
+      {
+        "playerId": 2918,
+        "playerName": "K. Casteels"
+      },
+      {
+        "playerId": 2923,
+        "playerName": "Y. Carrasco"
+      },
+      {
+        "playerId": 2929,
+        "playerName": "T. Hazard"
+      },
+      {
+        "playerId": 8716,
+        "playerName": "D. Roef"
+      },
+      {
+        "playerId": 8920,
+        "playerName": "D. Vanzeir"
+      },
+      {
+        "playerId": 22000,
+        "playerName": "T. Foket"
+      },
+      {
+        "playerId": 37639,
+        "playerName": "S. Van der Heyden"
+      },
+      {
+        "playerId": 147859,
+        "playerName": "C. De Ketelaere"
+      },
+      {
+        "playerId": 204043,
+        "playerName": "A. Theate"
+      },
+      {
+        "playerId": 304228,
+        "playerName": "Z. Debast"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "France",
+    "players": [
+      {
+        "playerId": 2059,
+        "playerName": "W. Ben Yedder"
+      },
+      {
+        "playerId": 56,
+        "playerName": "A. Griezmann"
+      },
+      {
+        "playerId": 1257,
+        "playerName": "J. Koundé"
+      },
+      {
+        "playerId": 278,
+        "playerName": "Kylian Mbappé"
+      },
+      {
+        "playerId": 1271,
+        "playerName": "A. Tchouaméni"
+      },
+      {
+        "playerId": 2207,
+        "playerName": "E. Camavinga"
+      },
+      {
+        "playerId": 653,
+        "playerName": "F. Mendy"
+      },
+      {
+        "playerId": 262,
+        "playerName": "P. Kimpembe"
+      },
+      {
+        "playerId": 759,
+        "playerName": "K. Benzema"
+      },
+      {
+        "playerId": 22221,
+        "playerName": "M. Maignan"
+      },
+      {
+        "playerId": 272,
+        "playerName": "A. Rabiot"
+      },
+      {
+        "playerId": 22254,
+        "playerName": "Y. Fofana"
+      },
+      {
+        "playerId": 1253,
+        "playerName": "B. Costil"
+      },
+      {
+        "playerId": 47300,
+        "playerName": "T. Hernández"
+      },
+      {
+        "playerId": 30393,
+        "playerName": "A. Lafont"
+      },
+      {
+        "playerId": 1149,
+        "playerName": "D. Upamecano"
+      },
+      {
+        "playerId": 25008,
+        "playerName": "J. Clauss"
+      },
+      {
+        "playerId": 153,
+        "playerName": "O. Dembélé"
+      },
+      {
+        "playerId": 33,
+        "playerName": "L. Hernández"
+      },
+      {
+        "playerId": 2725,
+        "playerName": "B. Pavard"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Croatia",
+    "players": [
+      {
+        "playerId": 199,
+        "playerName": "Šime Vrsaljko"
+      },
+      {
+        "playerId": 201,
+        "playerName": "M. Brozović"
+      },
+      {
+        "playerId": 524,
+        "playerName": "D. Kotarski"
+      },
+      {
+        "playerId": 611,
+        "playerName": "M. Livaja"
+      },
+      {
+        "playerId": 1266,
+        "playerName": "T. Bašić"
+      },
+      {
+        "playerId": 1321,
+        "playerName": "L. Majer"
+      },
+      {
+        "playerId": 1322,
+        "playerName": "N. Moro"
+      },
+      {
+        "playerId": 2373,
+        "playerName": "J. Mišić"
+      },
+      {
+        "playerId": 2759,
+        "playerName": "S. Sluga"
+      },
+      {
+        "playerId": 2763,
+        "playerName": "M. Pašalić"
+      },
+      {
+        "playerId": 7332,
+        "playerName": "L. Sučić"
+      },
+      {
+        "playerId": 14297,
+        "playerName": "I. Ivušić"
+      },
+      {
+        "playerId": 14302,
+        "playerName": "M. Škorić"
+      },
+      {
+        "playerId": 14327,
+        "playerName": "D. Bradarić"
+      },
+      {
+        "playerId": 14377,
+        "playerName": "K. Lovrić"
+      },
+      {
+        "playerId": 14394,
+        "playerName": "L. Ivanušec"
+      },
+      {
+        "playerId": 14553,
+        "playerName": "N. Labrović"
+      },
+      {
+        "playerId": 14701,
+        "playerName": "J. Šutalo"
+      },
+      {
+        "playerId": 30827,
+        "playerName": "M. Erlić"
+      },
+      {
+        "playerId": 66055,
+        "playerName": "P. Musa"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Brazil",
+    "players": [
+      {
+        "playerId": 860,
+        "playerName": "Alex Sandro"
+      },
+      {
+        "playerId": 9458,
+        "playerName": "Léo Ortiz"
+      },
+      {
+        "playerId": 30408,
+        "playerName": "Gerson"
+      },
+      {
+        "playerId": 2414,
+        "playerName": "Everton"
+      },
+      {
+        "playerId": 10321,
+        "playerName": "Pedro"
+      },
+      {
+        "playerId": 10174,
+        "playerName": "Gabriel Barbosa"
+      },
+      {
+        "playerId": 2410,
+        "playerName": "Weverton"
+      },
+      {
+        "playerId": 10040,
+        "playerName": "Artur"
+      },
+      {
+        "playerId": 10168,
+        "playerName": "Éverton Ribeiro"
+      },
+      {
+        "playerId": 309634,
+        "playerName": "Gabriel Grando"
+      },
+      {
+        "playerId": 10387,
+        "playerName": "Edenílson"
+      },
+      {
+        "playerId": 276,
+        "playerName": "Neymar"
+      },
+      {
+        "playerId": 9978,
+        "playerName": "Everson"
+      },
+      {
+        "playerId": 2038,
+        "playerName": "Guilherme Arana"
+      },
+      {
+        "playerId": 195111,
+        "playerName": "Gabriel Menino"
+      },
+      {
+        "playerId": 12705,
+        "playerName": "Hulk"
+      },
+      {
+        "playerId": 10156,
+        "playerName": "Rodrigo Caio"
+      },
+      {
+        "playerId": 9991,
+        "playerName": "Lucas Veríssimo"
+      },
+      {
+        "playerId": 10112,
+        "playerName": "Santos"
+      },
+      {
+        "playerId": 80166,
+        "playerName": "Thiago Galhardo"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Uruguay",
+    "players": [
+      {
+        "playerId": 31,
+        "playerName": "J. Giménez"
+      },
+      {
+        "playerId": 756,
+        "playerName": "F. Valverde"
+      },
+      {
+        "playerId": 2608,
+        "playerName": "M. Campaña"
+      },
+      {
+        "playerId": 2610,
+        "playerName": "G. González"
+      },
+      {
+        "playerId": 2615,
+        "playerName": "M. Gómez"
+      },
+      {
+        "playerId": 28337,
+        "playerName": "F. Gorriarán"
+      },
+      {
+        "playerId": 35931,
+        "playerName": "S. Sosa"
+      },
+      {
+        "playerId": 36494,
+        "playerName": "Y. Irrazábal"
+      },
+      {
+        "playerId": 47258,
+        "playerName": "M. Arambarri"
+      },
+      {
+        "playerId": 51535,
+        "playerName": "S. Cáceres"
+      },
+      {
+        "playerId": 51553,
+        "playerName": "F. Martínez"
+      },
+      {
+        "playerId": 51588,
+        "playerName": "B. Ocampo"
+      },
+      {
+        "playerId": 51592,
+        "playerName": "K. Dawson"
+      },
+      {
+        "playerId": 51618,
+        "playerName": "B. Rodríguez"
+      },
+      {
+        "playerId": 51689,
+        "playerName": "A. Oliveros"
+      },
+      {
+        "playerId": 51733,
+        "playerName": "G. Olveira"
+      },
+      {
+        "playerId": 70544,
+        "playerName": "R. Muñoz"
+      },
+      {
+        "playerId": 101814,
+        "playerName": "R. Araújo"
+      },
+      {
+        "playerId": 197063,
+        "playerName": "F. Díaz"
+      },
+      {
+        "playerId": 363122,
+        "playerName": "A. Scarone"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Spain",
+    "players": [
+      {
+        "playerId": 50,
+        "playerName": "Koke"
+      },
+      {
+        "playerId": 144,
+        "playerName": "Sergio Busquets"
+      },
+      {
+        "playerId": 736,
+        "playerName": "Fran García"
+      },
+      {
+        "playerId": 753,
+        "playerName": "Marcos Llorente"
+      },
+      {
+        "playerId": 918,
+        "playerName": "José Gayà"
+      },
+      {
+        "playerId": 919,
+        "playerName": "Hugo Guillamón"
+      },
+      {
+        "playerId": 1570,
+        "playerName": "Sergio Canales"
+      },
+      {
+        "playerId": 1707,
+        "playerName": "Gerard Moreno"
+      },
+      {
+        "playerId": 2670,
+        "playerName": "Íñigo Martínez"
+      },
+      {
+        "playerId": 46653,
+        "playerName": "David García"
+      },
+      {
+        "playerId": 47270,
+        "playerName": "Unai Simón"
+      },
+      {
+        "playerId": 47301,
+        "playerName": "Robin Le Normand"
+      },
+      {
+        "playerId": 47323,
+        "playerName": "Mikel Oyarzabal"
+      },
+      {
+        "playerId": 47440,
+        "playerName": "Brais Méndez"
+      },
+      {
+        "playerId": 47551,
+        "playerName": "Raúl de Tomás"
+      },
+      {
+        "playerId": 133609,
+        "playerName": "Pedri"
+      },
+      {
+        "playerId": 161928,
+        "playerName": "Alejandro Balde"
+      },
+      {
+        "playerId": 162473,
+        "playerName": "Arnau Tenas"
+      },
+      {
+        "playerId": 183799,
+        "playerName": "Nico Williams"
+      },
+      {
+        "playerId": 296667,
+        "playerName": "Gavi"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "England",
+    "players": [
+      {
+        "playerId": 626,
+        "playerName": "J. Stones"
+      },
+      {
+        "playerId": 631,
+        "playerName": "P. Foden"
+      },
+      {
+        "playerId": 891,
+        "playerName": "L. Shaw"
+      },
+      {
+        "playerId": 1460,
+        "playerName": "B. Saka"
+      },
+      {
+        "playerId": 2932,
+        "playerName": "J. Pickford"
+      },
+      {
+        "playerId": 2933,
+        "playerName": "B. Chilwell"
+      },
+      {
+        "playerId": 2935,
+        "playerName": "H. Maguire"
+      },
+      {
+        "playerId": 2937,
+        "playerName": "D. Rice"
+      },
+      {
+        "playerId": 18784,
+        "playerName": "J. Maddison"
+      },
+      {
+        "playerId": 18911,
+        "playerName": "N. Pope"
+      },
+      {
+        "playerId": 19088,
+        "playerName": "D. Henderson"
+      },
+      {
+        "playerId": 19130,
+        "playerName": "K. Phillips"
+      },
+      {
+        "playerId": 19187,
+        "playerName": "J. Grealish"
+      },
+      {
+        "playerId": 19220,
+        "playerName": "M. Mount"
+      },
+      {
+        "playerId": 19545,
+        "playerName": "R. James"
+      },
+      {
+        "playerId": 19959,
+        "playerName": "B. White"
+      },
+      {
+        "playerId": 20355,
+        "playerName": "A. Ramsdale"
+      },
+      {
+        "playerId": 67971,
+        "playerName": "M. Guéhi"
+      },
+      {
+        "playerId": 129718,
+        "playerName": "J. Bellingham"
+      },
+      {
+        "playerId": 182201,
+        "playerName": "T. Mitchell"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Japan",
+    "players": [
+      {
+        "playerId": 1942,
+        "playerName": "J. Ito"
+      },
+      {
+        "playerId": 2588,
+        "playerName": "Kosuke Nakamura"
+      },
+      {
+        "playerId": 2602,
+        "playerName": "Y. Kobayashi"
+      },
+      {
+        "playerId": 2607,
+        "playerName": "M. Suzuki"
+      },
+      {
+        "playerId": 22242,
+        "playerName": "E. Kawashima"
+      },
+      {
+        "playerId": 32858,
+        "playerName": "T. Watanabe"
+      },
+      {
+        "playerId": 32862,
+        "playerName": "T. Kubo"
+      },
+      {
+        "playerId": 32872,
+        "playerName": "K. Nagai"
+      },
+      {
+        "playerId": 32954,
+        "playerName": "S. Taniguchi"
+      },
+      {
+        "playerId": 33012,
+        "playerName": "K. Matsubara"
+      },
+      {
+        "playerId": 33049,
+        "playerName": "G. Notsuda"
+      },
+      {
+        "playerId": 33104,
+        "playerName": "R. Yamanaka"
+      },
+      {
+        "playerId": 33144,
+        "playerName": "M. Yamane"
+      },
+      {
+        "playerId": 33165,
+        "playerName": "A. Seko"
+      },
+      {
+        "playerId": 33175,
+        "playerName": "K. Mizunuma"
+      },
+      {
+        "playerId": 33268,
+        "playerName": "T. Ominami"
+      },
+      {
+        "playerId": 33289,
+        "playerName": "Koki Ogawa"
+      },
+      {
+        "playerId": 33804,
+        "playerName": "K. Watanabe"
+      },
+      {
+        "playerId": 41349,
+        "playerName": "S. Gonda"
+      },
+      {
+        "playerId": 72155,
+        "playerName": "A. Ueda"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Senegal",
+    "players": [
+      {
+        "playerId": 660,
+        "playerName": "Pape Cheikh"
+      },
+      {
+        "playerId": 2996,
+        "playerName": "S. Thioub"
+      },
+      {
+        "playerId": 15470,
+        "playerName": "A. Badara"
+      },
+      {
+        "playerId": 20533,
+        "playerName": "O. Nguette"
+      },
+      {
+        "playerId": 31492,
+        "playerName": "F. Kanouté"
+      },
+      {
+        "playerId": 50777,
+        "playerName": "C. Diop"
+      },
+      {
+        "playerId": 78479,
+        "playerName": "E. Cissé"
+      },
+      {
+        "playerId": 158657,
+        "playerName": "Jean Louis Barthelemy Diouf"
+      },
+      {
+        "playerId": 180831,
+        "playerName": "A. Diène"
+      },
+      {
+        "playerId": 293985,
+        "playerName": "M. Ndoye"
+      },
+      {
+        "playerId": 293986,
+        "playerName": "M. Baldé"
+      },
+      {
+        "playerId": 294285,
+        "playerName": "P. Bassène"
+      },
+      {
+        "playerId": 321622,
+        "playerName": "M. Diallo"
+      },
+      {
+        "playerId": 321625,
+        "playerName": "M. Ba"
+      },
+      {
+        "playerId": 321627,
+        "playerName": "S. Gueye"
+      },
+      {
+        "playerId": 321628,
+        "playerName": "A. Mbaye"
+      },
+      {
+        "playerId": 321629,
+        "playerName": "A. Ndoye"
+      },
+      {
+        "playerId": 323933,
+        "playerName": "A. Diop"
+      },
+      {
+        "playerId": 350492,
+        "playerName": "A. Faty"
+      },
+      {
+        "playerId": 374068,
+        "playerName": "A. Ndiaye"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Serbia",
+    "players": [
+      {
+        "playerId": 340,
+        "playerName": "S. Babić"
+      },
+      {
+        "playerId": 349,
+        "playerName": "A. Terzić"
+      },
+      {
+        "playerId": 556,
+        "playerName": "M. Svilar"
+      },
+      {
+        "playerId": 579,
+        "playerName": "A. Živković"
+      },
+      {
+        "playerId": 1489,
+        "playerName": "N. Gudelj"
+      },
+      {
+        "playerId": 2078,
+        "playerName": "U. Spajić"
+      },
+      {
+        "playerId": 2814,
+        "playerName": "P. Rajković"
+      },
+      {
+        "playerId": 2822,
+        "playerName": "D. Lazović"
+      },
+      {
+        "playerId": 2824,
+        "playerName": "N. Maksimović"
+      },
+      {
+        "playerId": 21584,
+        "playerName": "M. Ristić"
+      },
+      {
+        "playerId": 30415,
+        "playerName": "D. Vlahović"
+      },
+      {
+        "playerId": 31156,
+        "playerName": "V. Milinković-Savić"
+      },
+      {
+        "playerId": 45816,
+        "playerName": "N. Terzić"
+      },
+      {
+        "playerId": 45826,
+        "playerName": "S. Pavlović"
+      },
+      {
+        "playerId": 46043,
+        "playerName": "M. Ilić"
+      },
+      {
+        "playerId": 46170,
+        "playerName": "I. Ilić"
+      },
+      {
+        "playerId": 46777,
+        "playerName": "Đ. Jovanović"
+      },
+      {
+        "playerId": 98510,
+        "playerName": "Marko Petković"
+      },
+      {
+        "playerId": 133391,
+        "playerName": "S. Eraković"
+      },
+      {
+        "playerId": 180128,
+        "playerName": "S. Mitrović"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Switzerland",
+    "players": [
+      {
+        "playerId": 48372,
+        "playerName": "E. Cömert"
+      },
+      {
+        "playerId": 945,
+        "playerName": "J. Lotomba"
+      },
+      {
+        "playerId": 115588,
+        "playerName": "B. Okoh"
+      },
+      {
+        "playerId": 48413,
+        "playerName": "M. Bottani"
+      },
+      {
+        "playerId": 48612,
+        "playerName": "K. Imeri"
+      },
+      {
+        "playerId": 939,
+        "playerName": "D. von Ballmoos"
+      },
+      {
+        "playerId": 264705,
+        "playerName": "A. Jashari"
+      },
+      {
+        "playerId": 951,
+        "playerName": "M. Aebischer"
+      },
+      {
+        "playerId": 952,
+        "playerName": "C. Fassnacht"
+      },
+      {
+        "playerId": 25282,
+        "playerName": "G. Kobel"
+      },
+      {
+        "playerId": 2801,
+        "playerName": "J. Omlin"
+      },
+      {
+        "playerId": 2803,
+        "playerName": "N. Elvedi"
+      },
+      {
+        "playerId": 163032,
+        "playerName": "F. Rieder"
+      },
+      {
+        "playerId": 48378,
+        "playerName": "S. Widmer"
+      },
+      {
+        "playerId": 48481,
+        "playerName": "L. Stergiou"
+      },
+      {
+        "playerId": 48497,
+        "playerName": "C. Itten"
+      },
+      {
+        "playerId": 2811,
+        "playerName": "S. Zuber"
+      },
+      {
+        "playerId": 957,
+        "playerName": "D. Sow"
+      },
+      {
+        "playerId": 48471,
+        "playerName": "R. Vargas"
+      },
+      {
+        "playerId": 1142,
+        "playerName": "Y. Mvogo"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Mexico",
+    "players": [
+      {
+        "playerId": 234,
+        "playerName": "É. Gutiérrez"
+      },
+      {
+        "playerId": 2879,
+        "playerName": "R. Alvarado"
+      },
+      {
+        "playerId": 2883,
+        "playerName": "R. Pizarro"
+      },
+      {
+        "playerId": 11448,
+        "playerName": "B. Galdames"
+      },
+      {
+        "playerId": 35546,
+        "playerName": "A. González"
+      },
+      {
+        "playerId": 35562,
+        "playerName": "J. Domínguez"
+      },
+      {
+        "playerId": 35569,
+        "playerName": "J. Silva"
+      },
+      {
+        "playerId": 35576,
+        "playerName": "O. Pineda"
+      },
+      {
+        "playerId": 35704,
+        "playerName": "A. Talavera"
+      },
+      {
+        "playerId": 35769,
+        "playerName": "C. Acevedo"
+      },
+      {
+        "playerId": 35789,
+        "playerName": "E. Aguirre"
+      },
+      {
+        "playerId": 35800,
+        "playerName": "J. Esquivel"
+      },
+      {
+        "playerId": 35813,
+        "playerName": "M. Laínez"
+      },
+      {
+        "playerId": 35874,
+        "playerName": "G. Sepúlveda"
+      },
+      {
+        "playerId": 35894,
+        "playerName": "A. Pulido"
+      },
+      {
+        "playerId": 35970,
+        "playerName": "L. Romo"
+      },
+      {
+        "playerId": 51068,
+        "playerName": "E. Álvarez"
+      },
+      {
+        "playerId": 119193,
+        "playerName": "L. Olivas"
+      },
+      {
+        "playerId": 129931,
+        "playerName": "E. Lara"
+      },
+      {
+        "playerId": 195704,
+        "playerName": "J. Carrillo"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "South Korea",
+    "players": []
+  },
+  {
+    "id": 20,
+    "name": "Australia",
+    "players": []
+  },
+  {
+    "id": 21,
+    "name": "Denmark",
+    "players": []
+  },
+  {
+    "id": 22,
+    "name": "Iran",
+    "players": []
+  },
+  {
+    "id": 23,
+    "name": "Saudi Arabia",
+    "players": []
+  },
+  {
+    "id": 24,
+    "name": "Poland",
+    "players": []
+  },
+  {
+    "id": 25,
+    "name": "Germany",
+    "players": []
+  },
+  {
+    "id": 26,
+    "name": "Argentina",
+    "players": []
+  },
+  {
+    "id": 27,
+    "name": "Portugal",
+    "players": []
+  },
+  {
+    "id": 28,
+    "name": "Tunisia",
+    "players": [
+      {
+        "playerId": 2940,
+        "playerName": "F. Ben Mustapha"
+      },
+      {
+        "playerId": 2943,
+        "playerName": "R. Bedoui"
+      },
+      {
+        "playerId": 2949,
+        "playerName": "M. Ben Amor"
+      },
+      {
+        "playerId": 2951,
+        "playerName": "Y. Chamakhi"
+      },
+      {
+        "playerId": 2956,
+        "playerName": "B. Saidani"
+      },
+      {
+        "playerId": 2961,
+        "playerName": "A. Badri"
+      },
+      {
+        "playerId": 16860,
+        "playerName": "H. Nagguez"
+      },
+      {
+        "playerId": 49394,
+        "playerName": "A. Jemal"
+      },
+      {
+        "playerId": 49403,
+        "playerName": "M. Yacoubi"
+      },
+      {
+        "playerId": 49429,
+        "playerName": "N. Hnid"
+      },
+      {
+        "playerId": 49459,
+        "playerName": "S. Ben Aziza"
+      },
+      {
+        "playerId": 49461,
+        "playerName": "Z. Boughattas"
+      },
+      {
+        "playerId": 49467,
+        "playerName": "M. Baayou"
+      },
+      {
+        "playerId": 49470,
+        "playerName": "Y. Chikhaoui"
+      },
+      {
+        "playerId": 49581,
+        "playerName": "A. Dkhili"
+      },
+      {
+        "playerId": 49617,
+        "playerName": "I. Jelassi"
+      },
+      {
+        "playerId": 49779,
+        "playerName": "S. Debchi"
+      },
+      {
+        "playerId": 51280,
+        "playerName": "J. Khemiri"
+      },
+      {
+        "playerId": 119111,
+        "playerName": "A. Bettaieb"
+      },
+      {
+        "playerId": 129674,
+        "playerName": "E. Damergy"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Costa Rica",
+    "players": [
+      {
+        "playerId": 2841,
+        "playerName": "A. Cruz"
+      },
+      {
+        "playerId": 2846,
+        "playerName": "M. George"
+      },
+      {
+        "playerId": 13854,
+        "playerName": "C. Martínez"
+      },
+      {
+        "playerId": 13866,
+        "playerName": "Álvaro Alberto Saborío Chacón"
+      },
+      {
+        "playerId": 13883,
+        "playerName": "R. Blanco"
+      },
+      {
+        "playerId": 13884,
+        "playerName": "C. Bolaños"
+      },
+      {
+        "playerId": 13891,
+        "playerName": "J. Venegas"
+      },
+      {
+        "playerId": 13937,
+        "playerName": "O. Galo"
+      },
+      {
+        "playerId": 13952,
+        "playerName": "G. Torres"
+      },
+      {
+        "playerId": 13955,
+        "playerName": "A. Contreras"
+      },
+      {
+        "playerId": 13977,
+        "playerName": "C. Núñez"
+      },
+      {
+        "playerId": 14146,
+        "playerName": "J. Brenes"
+      },
+      {
+        "playerId": 14174,
+        "playerName": "R. Wilson"
+      },
+      {
+        "playerId": 71123,
+        "playerName": "O. Sinclair"
+      },
+      {
+        "playerId": 125214,
+        "playerName": "J. Córdoba"
+      },
+      {
+        "playerId": 196255,
+        "playerName": "A. Suárez"
+      },
+      {
+        "playerId": 196480,
+        "playerName": "C. Mora"
+      },
+      {
+        "playerId": 270498,
+        "playerName": "W. Madrigal"
+      },
+      {
+        "playerId": 375012,
+        "playerName": "A. Hernández"
+      },
+      {
+        "playerId": 392108,
+        "playerName": "S. Orias"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Morocco",
+    "players": [
+      {
+        "playerId": 2703,
+        "playerName": "A. Tagnaouti"
+      },
+      {
+        "playerId": 36725,
+        "playerName": "H. El Moussaoui"
+      },
+      {
+        "playerId": 41440,
+        "playerName": "F. Moufi"
+      },
+      {
+        "playerId": 146823,
+        "playerName": "Z. Drouich"
+      },
+      {
+        "playerId": 146825,
+        "playerName": "A. Madkour"
+      },
+      {
+        "playerId": 179988,
+        "playerName": "T. Mourid"
+      },
+      {
+        "playerId": 190572,
+        "playerName": "J. Ech-Chammakh"
+      },
+      {
+        "playerId": 283846,
+        "playerName": "A. Akhrif"
+      },
+      {
+        "playerId": 287434,
+        "playerName": "A. Tahif"
+      },
+      {
+        "playerId": 291367,
+        "playerName": "Sami Tlemcani"
+      },
+      {
+        "playerId": 294298,
+        "playerName": "I. Moutaraji"
+      },
+      {
+        "playerId": 294299,
+        "playerName": "O. Zemraoui"
+      },
+      {
+        "playerId": 303512,
+        "playerName": "A. Ramzi"
+      },
+      {
+        "playerId": 307244,
+        "playerName": "H. Rahimi"
+      },
+      {
+        "playerId": 310613,
+        "playerName": "A. Haimoud"
+      },
+      {
+        "playerId": 318595,
+        "playerName": "A. Farah"
+      },
+      {
+        "playerId": 347290,
+        "playerName": "A.  El Aouani"
+      },
+      {
+        "playerId": 385467,
+        "playerName": "A. Nakach"
+      },
+      {
+        "playerId": 395051,
+        "playerName": "I. Laghzali"
+      },
+      {
+        "playerId": 412286,
+        "playerName": "A. Ennakouss"
+      }
+    ]
+  },
+  {
+    "id": 767,
+    "name": "Wales",
+    "players": [
+      {
+        "playerId": 104041,
+        "playerName": "B. Cabango"
+      },
+      {
+        "playerId": 36843,
+        "playerName": "M. Smith"
+      },
+      {
+        "playerId": 18599,
+        "playerName": "S. Thomas"
+      },
+      {
+        "playerId": 19674,
+        "playerName": "W. Vaulks"
+      },
+      {
+        "playerId": 17932,
+        "playerName": "M. Harris"
+      },
+      {
+        "playerId": 301184,
+        "playerName": "R. Colwill"
+      },
+      {
+        "playerId": 328074,
+        "playerName": "J. James"
+      },
+      {
+        "playerId": 19271,
+        "playerName": "J. Morrell"
+      },
+      {
+        "playerId": 163055,
+        "playerName": "O. Denham"
+      },
+      {
+        "playerId": 70335,
+        "playerName": "D. Levitt"
+      },
+      {
+        "playerId": 1412,
+        "playerName": "J. Lawrence"
+      },
+      {
+        "playerId": 423,
+        "playerName": "R. Matondo"
+      },
+      {
+        "playerId": 164,
+        "playerName": "B. Davies"
+      },
+      {
+        "playerId": 129711,
+        "playerName": "B. Johnson"
+      },
+      {
+        "playerId": 18866,
+        "playerName": "C. Mepham"
+      },
+      {
+        "playerId": 82855,
+        "playerName": "T. King"
+      },
+      {
+        "playerId": 19221,
+        "playerName": "H. Wilson"
+      },
+      {
+        "playerId": 2279,
+        "playerName": "E. Ampadu"
+      },
+      {
+        "playerId": 19321,
+        "playerName": "J. Rodon"
+      },
+      {
+        "playerId": 19329,
+        "playerName": "D. James"
+      }
+    ]
+  },
+  {
+    "id": 1118,
+    "name": "Netherlands",
+    "players": [
+      {
+        "playerId": 124,
+        "playerName": "J. Cillessen"
+      },
+      {
+        "playerId": 194,
+        "playerName": "S. de Vrij"
+      },
+      {
+        "playerId": 226,
+        "playerName": "D. Dumfries"
+      },
+      {
+        "playerId": 231,
+        "playerName": "J. Teze"
+      },
+      {
+        "playerId": 530,
+        "playerName": "M. Bakker"
+      },
+      {
+        "playerId": 538,
+        "playerName": "F. de Jong"
+      },
+      {
+        "playerId": 544,
+        "playerName": "N. Lang"
+      },
+      {
+        "playerId": 30423,
+        "playerName": "H. Hateboer"
+      },
+      {
+        "playerId": 31632,
+        "playerName": "A. Noppert"
+      },
+      {
+        "playerId": 36828,
+        "playerName": "J. Drommel"
+      },
+      {
+        "playerId": 36893,
+        "playerName": "O. Wijndal"
+      },
+      {
+        "playerId": 36899,
+        "playerName": "T. Koopmeiners"
+      },
+      {
+        "playerId": 36905,
+        "playerName": "G. Til"
+      },
+      {
+        "playerId": 37113,
+        "playerName": "R. Pasveer"
+      },
+      {
+        "playerId": 37137,
+        "playerName": "J. Bijlow"
+      },
+      {
+        "playerId": 37749,
+        "playerName": "J. Veerman"
+      },
+      {
+        "playerId": 37890,
+        "playerName": "J. Schouten"
+      },
+      {
+        "playerId": 38746,
+        "playerName": "J. Timber"
+      },
+      {
+        "playerId": 38749,
+        "playerName": "K. Taylor"
+      },
+      {
+        "playerId": 162452,
+        "playerName": "D. Rensch"
+      }
+    ]
+  },
+  {
+    "id": 1504,
+    "name": "Ghana",
+    "players": [
+      {
+        "playerId": 3411,
+        "playerName": "F. Annan"
+      },
+      {
+        "playerId": 3417,
+        "playerName": "J. Mensah"
+      },
+      {
+        "playerId": 3420,
+        "playerName": "T. Agyepong"
+      },
+      {
+        "playerId": 3426,
+        "playerName": "M. Wakaso"
+      },
+      {
+        "playerId": 7817,
+        "playerName": "J. Fameyeh"
+      },
+      {
+        "playerId": 35840,
+        "playerName": "C. Aboagye"
+      },
+      {
+        "playerId": 60009,
+        "playerName": "A. Okrah"
+      },
+      {
+        "playerId": 79160,
+        "playerName": "E. Ansah"
+      },
+      {
+        "playerId": 124150,
+        "playerName": "J. Esso"
+      },
+      {
+        "playerId": 126968,
+        "playerName": "M. Kamaheni"
+      },
+      {
+        "playerId": 180274,
+        "playerName": "I. Abdul-Ganiyu"
+      },
+      {
+        "playerId": 236678,
+        "playerName": "S. Kwaku"
+      },
+      {
+        "playerId": 257395,
+        "playerName": "A. Acheampong"
+      },
+      {
+        "playerId": 273263,
+        "playerName": "A. Yusif"
+      },
+      {
+        "playerId": 293638,
+        "playerName": "I. Imoro"
+      },
+      {
+        "playerId": 303474,
+        "playerName": "Philomon Baffour"
+      },
+      {
+        "playerId": 350512,
+        "playerName": "M. Quaye"
+      },
+      {
+        "playerId": 404062,
+        "playerName": "K. Otu"
+      },
+      {
+        "playerId": 404069,
+        "playerName": "J. Attuquaye"
+      },
+      {
+        "playerId": 408507,
+        "playerName": "J. Haruna"
+      }
+    ]
+  },
+  {
+    "id": 1530,
+    "name": "Cameroon",
+    "players": [
+      {
+        "playerId": 386,
+        "playerName": "V. Aboubakar"
+      },
+      {
+        "playerId": 2213,
+        "playerName": "J. Léa Siliki"
+      },
+      {
+        "playerId": 3397,
+        "playerName": "F. Ondoa"
+      },
+      {
+        "playerId": 3399,
+        "playerName": "J. Dawa"
+      },
+      {
+        "playerId": 47523,
+        "playerName": "K. Soni"
+      },
+      {
+        "playerId": 78756,
+        "playerName": "J. Uzuegbunam"
+      },
+      {
+        "playerId": 79099,
+        "playerName": "L. Enoh"
+      },
+      {
+        "playerId": 101100,
+        "playerName": "Yves Alain Dooh Moukoko"
+      },
+      {
+        "playerId": 135054,
+        "playerName": "M. Zemba"
+      },
+      {
+        "playerId": 157062,
+        "playerName": "J. Efala"
+      },
+      {
+        "playerId": 157070,
+        "playerName": "I. Abba"
+      },
+      {
+        "playerId": 157084,
+        "playerName": "Lambert Gueme Araina"
+      },
+      {
+        "playerId": 157086,
+        "playerName": "S. Marou"
+      },
+      {
+        "playerId": 291453,
+        "playerName": "F. Oukiné"
+      },
+      {
+        "playerId": 293480,
+        "playerName": "B. Dairou"
+      },
+      {
+        "playerId": 339381,
+        "playerName": "R. Foning"
+      },
+      {
+        "playerId": 369030,
+        "playerName": "F. Etouga"
+      },
+      {
+        "playerId": 394388,
+        "playerName": "R. Donfack"
+      },
+      {
+        "playerId": 402266,
+        "playerName": "P. Sime"
+      },
+      {
+        "playerId": 402268,
+        "playerName": "G. Eyike"
+      }
+    ]
+  },
+  {
+    "id": 1569,
+    "name": "Qatar",
+    "players": [
+      {
+        "playerId": 2526,
+        "playerName": "Yousef Hassan"
+      },
+      {
+        "playerId": 2528,
+        "playerName": "Salem Al Hajri"
+      },
+      {
+        "playerId": 2529,
+        "playerName": "Tameem Al Muhaza"
+      },
+      {
+        "playerId": 2538,
+        "playerName": "Abdulrahman Fahmi Moustafa"
+      },
+      {
+        "playerId": 2543,
+        "playerName": "Almoez Ali"
+      },
+      {
+        "playerId": 2546,
+        "playerName": "Ali Hassan Afif"
+      },
+      {
+        "playerId": 42062,
+        "playerName": "Mohammed Musa"
+      },
+      {
+        "playerId": 42088,
+        "playerName": "Ismaeel Mohammad"
+      },
+      {
+        "playerId": 42148,
+        "playerName": "Mohammed Alaa Eldin"
+      },
+      {
+        "playerId": 42171,
+        "playerName": "Yazan Naim"
+      },
+      {
+        "playerId": 42197,
+        "playerName": "Abdulrasheed Umaru"
+      },
+      {
+        "playerId": 42215,
+        "playerName": "Musaab Khidir"
+      },
+      {
+        "playerId": 42226,
+        "playerName": "Mohamed Salah"
+      },
+      {
+        "playerId": 42313,
+        "playerName": "Moayed Hassan"
+      },
+      {
+        "playerId": 42422,
+        "playerName": "Ahmed Doozandeh"
+      },
+      {
+        "playerId": 42433,
+        "playerName": "Eisa Palangi"
+      },
+      {
+        "playerId": 42469,
+        "playerName": "Abdulaziz Al Ansari"
+      },
+      {
+        "playerId": 57523,
+        "playerName": "Ahmed Fadel"
+      },
+      {
+        "playerId": 79091,
+        "playerName": "Fahad Al Abdulrahman"
+      },
+      {
+        "playerId": 313739,
+        "playerName": "Osamah Al Tairi"
+      }
+    ]
+  },
+  {
+    "id": 2382,
+    "name": "Ecuador",
+    "players": [
+      {
+        "playerId": 2568,
+        "playerName": "Alexander Domínguez Carabalí"
+      },
+      {
+        "playerId": 6087,
+        "playerName": "F. Gaibor"
+      },
+      {
+        "playerId": 8753,
+        "playerName": "J. Cevallos"
+      },
+      {
+        "playerId": 16413,
+        "playerName": "J. Corozo"
+      },
+      {
+        "playerId": 16414,
+        "playerName": "M. Corozo"
+      },
+      {
+        "playerId": 16419,
+        "playerName": "Leonel Enrique Quiñónez Padilla"
+      },
+      {
+        "playerId": 16432,
+        "playerName": "M. Estrada"
+      },
+      {
+        "playerId": 16454,
+        "playerName": "C. Garcés"
+      },
+      {
+        "playerId": 16463,
+        "playerName": "C. Cruz"
+      },
+      {
+        "playerId": 16486,
+        "playerName": "J. Murillo"
+      },
+      {
+        "playerId": 16524,
+        "playerName": "Alexander Antonio Alvarado Carriel"
+      },
+      {
+        "playerId": 16533,
+        "playerName": "J. Quiñónez"
+      },
+      {
+        "playerId": 16549,
+        "playerName": "M. Mejía"
+      },
+      {
+        "playerId": 16570,
+        "playerName": "J. Rojas"
+      },
+      {
+        "playerId": 16642,
+        "playerName": "G. Valle"
+      },
+      {
+        "playerId": 63969,
+        "playerName": "F. Martínez"
+      },
+      {
+        "playerId": 81191,
+        "playerName": "F. Mina"
+      },
+      {
+        "playerId": 237080,
+        "playerName": "M. Angulo"
+      },
+      {
+        "playerId": 311544,
+        "playerName": "Sebastían González Baquero"
+      },
+      {
+        "playerId": 336652,
+        "playerName": "Diego Almeida Crespo"
+      }
+    ]
+  },
+  {
+    "id": 2384,
+    "name": "USA",
+    "players": [
+      {
+        "playerId": 35885,
+        "playerName": "A. Zendejas"
+      },
+      {
+        "playerId": 38692,
+        "playerName": "E. Palmer-Brown"
+      },
+      {
+        "playerId": 50157,
+        "playerName": "T. Boyd"
+      },
+      {
+        "playerId": 50735,
+        "playerName": "M. McKenzie"
+      },
+      {
+        "playerId": 50846,
+        "playerName": "G. Zardes"
+      },
+      {
+        "playerId": 50848,
+        "playerName": "S. Johnson"
+      },
+      {
+        "playerId": 50866,
+        "playerName": "J. Lewis"
+      },
+      {
+        "playerId": 50883,
+        "playerName": "J. Gressel"
+      },
+      {
+        "playerId": 50913,
+        "playerName": "D. Mihailović"
+      },
+      {
+        "playerId": 51013,
+        "playerName": "D. Jones"
+      },
+      {
+        "playerId": 51032,
+        "playerName": "W. Zimmerman"
+      },
+      {
+        "playerId": 51185,
+        "playerName": "J. Yueill"
+      },
+      {
+        "playerId": 51186,
+        "playerName": "C. Cowell"
+      },
+      {
+        "playerId": 51218,
+        "playerName": "B. Lennon"
+      },
+      {
+        "playerId": 51238,
+        "playerName": "E. Williamson"
+      },
+      {
+        "playerId": 51310,
+        "playerName": "K. Acosta"
+      },
+      {
+        "playerId": 102510,
+        "playerName": "S. Rogers"
+      },
+      {
+        "playerId": 129885,
+        "playerName": "A. Soñora"
+      },
+      {
+        "playerId": 201715,
+        "playerName": "D. Callender"
+      },
+      {
+        "playerId": 208667,
+        "playerName": "J. Neal"
+      }
+    ]
+  },
+  {
+    "id": 5529,
+    "name": "Canada",
+    "players": []
+  }
+]
