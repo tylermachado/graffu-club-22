@@ -27,8 +27,7 @@
 				const total = players.length;
 				const squadConfederation = getSquadConfederation(squad);
 				let cursor = 0;
-				const stats = Object.entries(counts)
-					.map(([club_nation, count]) => ({
+				const entries = Object.entries(counts).map(([club_nation, count]) => ({
 						label: club_nation,
 						value: count,
 						club_nation,
@@ -36,20 +35,38 @@
 						proportion: total > 0 ? count / total : 0,
 						percentage: total > 0 ? (count / total) * 100 : 0,
 						confederation: nationToConfederation[club_nation],
-					}))
+					}));
+
+				// Pre-compute max value per non-squad confederation so they sort as groups
+				/** @type {Record<string, number>} */
+				const confedMaxValue = {};
+				for (const entry of entries) {
+					if (entry.confederation !== squadConfederation) {
+						confedMaxValue[entry.confederation] = Math.max(
+							confedMaxValue[entry.confederation] ?? 0,
+							entry.count
+						);
+					}
+				}
+
+				const stats = entries
 					.sort((a, b) => {
-						// 1. If club_nation matches the squad name, it comes first
+						// 1. club_nation matching the squad name comes first
 						if (a.club_nation === squad) return -1;
 						if (b.club_nation === squad) return 1;
 
-						// 2. If confederation matches squad confederation, it comes next
+						// 2. Other club_nations in the squad's confederation, ordered by value
 						const aMatchesConfed = a.confederation === squadConfederation;
 						const bMatchesConfed = b.confederation === squadConfederation;
 						if (aMatchesConfed && !bMatchesConfed) return -1;
 						if (!aMatchesConfed && bMatchesConfed) return 1;
 
-						// 3. Within same confederation group or other confederations, sort by value (descending)
-						return b.value - a.value;
+						// 3. Within the same confederation, order by value descending
+						if (a.confederation === b.confederation) return b.count - a.count;
+
+						// 4. Across different non-squad confederations, keep confederations grouped
+						//    by ordering each confederation by its highest value
+						return (confedMaxValue[b.confederation] ?? 0) - (confedMaxValue[a.confederation] ?? 0);
 					})
 					.map((item, index) => {
 						const start = cursor;
