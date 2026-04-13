@@ -1,11 +1,5 @@
-/**
- * 2022 FIFA World Cup Squad Scraper
- * Run locally:  npm install axios cheerio && node scrape.js
- * Output:       squads.json  (one key per country, array of player objects)
- */
-const axios = require("axios");
-const cheerio = require("cheerio");
-const fs = require("fs");
+import { load } from "cheerio";
+import fs from "fs/promises";
 
 const URL = "https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads";
 
@@ -36,11 +30,14 @@ function parseCountryFromAlt(altText) {
 }
 
 async function scrape() {
-  const { data: html } = await axios.get(URL, {
+  const response = await fetch(URL, {
     headers: { "User-Agent": "Mozilla/5.0 (compatible; research-scraper/1.0)" },
   });
 
-  const $ = cheerio.load(html);
+  if (!response.ok) throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+
+  const html = await response.text();
+  const $ = load(html);
   const result = {};
   let currentCountry = null;
 
@@ -49,7 +46,7 @@ async function scrape() {
 
     // Each country section is preceded by an <h3> heading
     if (tag === "h3") {
-      const headingText = $(el).find(".mw-headline").text().trim();
+      const headingText = $(el).text().trim();
       if (headingText) {
         currentCountry = headingText;
         result[currentCountry] = [];
@@ -92,11 +89,21 @@ async function scrape() {
     });
   });
 
-  const countryCount = Object.keys(result).length;
-  const playerCount  = Object.values(result).reduce((sum, p) => sum + p.length, 0);
+  // Filter out countries with no players (captures non-country h3 headings)
+  const filteredResult = Object.fromEntries(
+    Object.entries(result).filter(([_, players]) => players.length > 0)
+  );
 
-  fs.writeFileSync("squads.json", JSON.stringify(result, null, 2));
+  const countryCount = Object.keys(filteredResult).length;
+  const playerCount  = Object.values(filteredResult).reduce((sum, p) => sum + p.length, 0);
+
+  await fs.writeFile("src/data/squads.json", JSON.stringify(filteredResult, null, 2));
   console.log(`Done! ${countryCount} countries, ${playerCount} players → squads.json`);
 }
 
-scrape().catch(console.error);
+try {
+  await scrape();
+} catch (error) {
+  console.error("Scrape failed:", error.message);
+  process.exit(1);
+}
