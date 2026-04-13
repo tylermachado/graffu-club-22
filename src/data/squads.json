@@ -48,7 +48,7 @@
       "caps": 11,
       "goals": 0,
       "club": "Los Angeles FC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 6,
@@ -138,7 +138,7 @@
       "caps": 18,
       "goals": 1,
       "club": "Seattle Sounders FC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 15,
@@ -178,7 +178,7 @@
       "caps": 12,
       "goals": 0,
       "club": "Los Angeles FC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 19,
@@ -198,7 +198,7 @@
       "caps": 32,
       "goals": 0,
       "club": "Los Angeles FC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 21,
@@ -647,7 +647,7 @@
     {
       "number": 13,
       "position": "2DF",
-      "name": "Musab Kheder",
+      "name": "MUnited Statesb Kheder",
       "dob": "1993-01-01",
       "caps": 30,
       "goals": 0,
@@ -824,7 +824,7 @@
       "caps": 13,
       "goals": 1,
       "club": "Olympiacos",
-      "club_nation": "Hellenic"
+      "club_nation": "Greece"
     },
     {
       "number": 5,
@@ -1318,7 +1318,7 @@
       "caps": 52,
       "goals": 0,
       "club": "Persepolis",
-      "club_nation": "Islamic Republic Iran"
+      "club_nation": "Iran"
     },
     {
       "number": 2,
@@ -1328,7 +1328,7 @@
       "caps": 21,
       "goals": 0,
       "club": "Dinamo Zagreb",
-      "club_nation": "Croatian"
+      "club_nation": "Croatia"
     },
     {
       "number": 3,
@@ -1338,7 +1338,7 @@
       "caps": 121,
       "goals": 7,
       "club": "AEK Athens",
-      "club_nation": "Hellenic"
+      "club_nation": "Greece"
     },
     {
       "number": 4,
@@ -1358,7 +1358,7 @@
       "caps": 45,
       "goals": 1,
       "club": "AEK Athens",
-      "club_nation": "Hellenic"
+      "club_nation": "Greece"
     },
     {
       "number": 6,
@@ -1368,7 +1368,7 @@
       "caps": 47,
       "goals": 1,
       "club": "Vejle",
-      "club_nation": "Danish"
+      "club_nation": "Denmark"
     },
     {
       "number": 7,
@@ -1388,7 +1388,7 @@
       "caps": 46,
       "goals": 3,
       "club": "Persepolis",
-      "club_nation": "Islamic Republic Iran"
+      "club_nation": "Iran"
     },
     {
       "number": 9,
@@ -1398,7 +1398,7 @@
       "caps": 60,
       "goals": 28,
       "club": "Porto",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     },
     {
       "number": 10,
@@ -1418,7 +1418,7 @@
       "caps": 68,
       "goals": 2,
       "club": "Persepolis",
-      "club_nation": "Islamic Republic Iran"
+      "club_nation": "Iran"
     },
     {
       "number": 12,
@@ -1428,7 +1428,7 @@
       "caps": 1,
       "goals": 0,
       "club": "Sepahan",
-      "club_nation": "Islamic Republic Iran"
+      "club_nation": "Iran"
     },
     {
       "number": 13,
@@ -1458,7 +1458,7 @@
       "caps": 19,
       "goals": 1,
       "club": "Esteghlal",
-      "club_nation": "Islamic Republic Iran"
+      "club_nation": "Iran"
     },
     {
       "number": 16,
@@ -1468,7 +1468,7 @@
       "caps": 36,
       "goals": 7,
       "club": "Persepolis",
-      "club_nation": "Islamic Republic Iran"
+      "club_nation": "Iran"
     },
     {
       "number": 17,
@@ -1538,7 +1538,7 @@
       "caps": 46,
       "goals": 2,
       "club": "Sepahan",
-      "club_nation": "Islamic Republic Iran"
+      "club_nation": "Iran"
     },
     {
       "number": 24,
@@ -1548,7 +1548,7 @@
       "caps": 6,
       "goals": 0,
       "club": "Esteghlal",
-      "club_nation": "Islamic Republic Iran"
+      "club_nation": "Iran"
     },
     {
       "number": 25,
@@ -1558,7 +1558,7 @@
       "caps": 3,
       "goals": 0,
       "club": "Esteghlal",
-      "club_nation": "Islamic Republic Iran"
+      "club_nation": "Iran"
     }
   ],
   "United States": [
@@ -1590,7 +1590,7 @@
       "caps": 33,
       "goals": 3,
       "club": "Nashville SC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 4,
@@ -1615,7 +1615,7 @@
     {
       "number": 6,
       "position": "3MF",
-      "name": "Yunus Musah",
+      "name": "Yunus MUnited Statesh",
       "dob": "2002-11-29",
       "caps": 19,
       "goals": 0,
@@ -1650,7 +1650,7 @@
       "caps": 15,
       "goals": 7,
       "club": "FC Dallas",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 10,
@@ -1710,7 +1710,7 @@
       "caps": 29,
       "goals": 3,
       "club": "New York Red Bulls",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 16,
@@ -1720,7 +1720,7 @@
       "caps": 49,
       "goals": 11,
       "club": "Seattle Sounders FC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 17,
@@ -1730,7 +1730,7 @@
       "caps": 32,
       "goals": 0,
       "club": "Seattle Sounders FC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 18,
@@ -1740,7 +1740,7 @@
       "caps": 15,
       "goals": 1,
       "club": "Nashville SC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 19,
@@ -1760,7 +1760,7 @@
       "caps": 11,
       "goals": 0,
       "club": "Celtic",
-      "club_nation": "Scottish"
+      "club_nation": "Scotland"
     },
     {
       "number": 21,
@@ -1780,7 +1780,7 @@
       "caps": 75,
       "goals": 0,
       "club": "Inter Miami CF",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 23,
@@ -1790,7 +1790,7 @@
       "caps": 53,
       "goals": 2,
       "club": "Los Angeles FC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 24,
@@ -1810,7 +1810,7 @@
       "caps": 10,
       "goals": 0,
       "club": "New York City FC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 26,
@@ -1932,7 +1932,7 @@
       "caps": 108,
       "goals": 40,
       "club": "Los Angeles FC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 12,
@@ -2052,7 +2052,7 @@
       "caps": 13,
       "goals": 0,
       "club": "Dundee United",
-      "club_nation": "Scottish"
+      "club_nation": "Scotland"
     },
     {
       "number": 24,
@@ -2244,7 +2244,7 @@
       "caps": 1,
       "goals": 0,
       "club": "Atlanta United FC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 17,
@@ -2274,7 +2274,7 @@
       "caps": 93,
       "goals": 4,
       "club": "Benfica",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     },
     {
       "number": 20,
@@ -2324,7 +2324,7 @@
       "caps": 3,
       "goals": 0,
       "club": "Benfica",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     },
     {
       "number": 25,
@@ -2506,7 +2506,7 @@
       "caps": 102,
       "goals": 10,
       "club": "Houston Dynamo FC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 17,
@@ -2516,7 +2516,7 @@
       "caps": 50,
       "goals": 6,
       "club": "AEK Athens",
-      "club_nation": "Hellenic"
+      "club_nation": "Greece"
     },
     {
       "number": 18,
@@ -2638,7 +2638,7 @@
       "caps": 40,
       "goals": 3,
       "club": "Legia Warsaw",
-      "club_nation": "Polish"
+      "club_nation": "Poland"
     },
     {
       "number": 4,
@@ -2688,7 +2688,7 @@
       "caps": 9,
       "goals": 1,
       "club": "AEK Athens",
-      "club_nation": "Hellenic"
+      "club_nation": "Greece"
     },
     {
       "number": 9,
@@ -2708,7 +2708,7 @@
       "caps": 94,
       "goals": 5,
       "club": "Al-Shabab",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 11,
@@ -2718,7 +2718,7 @@
       "caps": 87,
       "goals": 17,
       "club": "Pogoń Szczecin",
-      "club_nation": "Polish"
+      "club_nation": "Poland"
     },
     {
       "number": 12,
@@ -2768,7 +2768,7 @@
       "caps": 18,
       "goals": 8,
       "club": "Charlotte FC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 17,
@@ -2828,7 +2828,7 @@
       "caps": 1,
       "goals": 0,
       "club": "Copenhagen",
-      "club_nation": "Danish"
+      "club_nation": "Denmark"
     },
     {
       "number": 23,
@@ -2868,7 +2868,7 @@
       "caps": 1,
       "goals": 0,
       "club": "Lech Poznań",
-      "club_nation": "Polish"
+      "club_nation": "Poland"
     }
   ],
   "Saudi Arabia": [
@@ -2880,7 +2880,7 @@
       "caps": 7,
       "goals": 0,
       "club": "Al-Ahli",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 2,
@@ -2890,7 +2890,7 @@
       "caps": 24,
       "goals": 0,
       "club": "Al-Nassr",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 3,
@@ -2900,7 +2900,7 @@
       "caps": 15,
       "goals": 0,
       "club": "Al-Nassr",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 4,
@@ -2910,7 +2910,7 @@
       "caps": 20,
       "goals": 1,
       "club": "Al-Nassr",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 5,
@@ -2920,7 +2920,7 @@
       "caps": 37,
       "goals": 0,
       "club": "Al-Hilal",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 6,
@@ -2930,7 +2930,7 @@
       "caps": 40,
       "goals": 1,
       "club": "Al-Hilal",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 7,
@@ -2940,7 +2940,7 @@
       "caps": 70,
       "goals": 8,
       "club": "Al-Hilal",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 8,
@@ -2950,7 +2950,7 @@
       "caps": 27,
       "goals": 0,
       "club": "Al-Hilal",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 9,
@@ -2960,7 +2960,7 @@
       "caps": 26,
       "goals": 6,
       "club": "Al-Fateh",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 10,
@@ -2970,7 +2970,7 @@
       "caps": 71,
       "goals": 17,
       "club": "Al-Hilal",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 11,
@@ -2980,7 +2980,7 @@
       "caps": 20,
       "goals": 10,
       "club": "Al-Hilal",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 12,
@@ -2990,7 +2990,7 @@
       "caps": 23,
       "goals": 1,
       "club": "Al-Hilal",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 13,
@@ -3000,7 +3000,7 @@
       "caps": 72,
       "goals": 2,
       "club": "Al-Hilal",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 14,
@@ -3010,7 +3010,7 @@
       "caps": 45,
       "goals": 1,
       "club": "Al-Hilal",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 15,
@@ -3020,7 +3020,7 @@
       "caps": 13,
       "goals": 1,
       "club": "Al-Nassr",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 16,
@@ -3030,7 +3030,7 @@
       "caps": 17,
       "goals": 2,
       "club": "Al-Nassr",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 17,
@@ -3040,7 +3040,7 @@
       "caps": 19,
       "goals": 0,
       "club": "Al-Shabab",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 18,
@@ -3050,7 +3050,7 @@
       "caps": 55,
       "goals": 8,
       "club": "Al-Shabab",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 19,
@@ -3060,7 +3060,7 @@
       "caps": 41,
       "goals": 4,
       "club": "Al-Shabab",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 20,
@@ -3070,7 +3070,7 @@
       "caps": 3,
       "goals": 0,
       "club": "Al-Ittihad",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 21,
@@ -3080,7 +3080,7 @@
       "caps": 42,
       "goals": 0,
       "club": "Al-Hilal",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 22,
@@ -3090,7 +3090,7 @@
       "caps": 0,
       "goals": 0,
       "club": "Al-Nassr",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 23,
@@ -3100,7 +3100,7 @@
       "caps": 38,
       "goals": 1,
       "club": "Al-Hilal",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 24,
@@ -3110,7 +3110,7 @@
       "caps": 10,
       "goals": 0,
       "club": "Al-Hilal",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 25,
@@ -3120,7 +3120,7 @@
       "caps": 8,
       "goals": 1,
       "club": "Al-Ahli",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 26,
@@ -3130,7 +3130,7 @@
       "caps": 5,
       "goals": 0,
       "club": "Abha",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     }
   ],
   "Australia": [
@@ -3142,7 +3142,7 @@
       "caps": 75,
       "goals": 0,
       "club": "Copenhagen",
-      "club_nation": "Danish"
+      "club_nation": "Denmark"
     },
     {
       "number": 2,
@@ -3152,7 +3152,7 @@
       "caps": 38,
       "goals": 1,
       "club": "Columbus Crew",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 3,
@@ -3162,7 +3162,7 @@
       "caps": 5,
       "goals": 0,
       "club": "Heart of Midlothian",
-      "club_nation": "Scottish"
+      "club_nation": "Scotland"
     },
     {
       "number": 4,
@@ -3172,7 +3172,7 @@
       "caps": 3,
       "goals": 0,
       "club": "Heart of Midlothian",
-      "club_nation": "Scottish"
+      "club_nation": "Scotland"
     },
     {
       "number": 5,
@@ -3262,7 +3262,7 @@
       "caps": 53,
       "goals": 7,
       "club": "Celtic",
-      "club_nation": "Scottish"
+      "club_nation": "Scotland"
     },
     {
       "number": 14,
@@ -3292,7 +3292,7 @@
       "caps": 53,
       "goals": 2,
       "club": "Dundee United",
-      "club_nation": "Scottish"
+      "club_nation": "Scotland"
     },
     {
       "number": 17,
@@ -3302,7 +3302,7 @@
       "caps": 1,
       "goals": 0,
       "club": "Heart of Midlothian",
-      "club_nation": "Scottish"
+      "club_nation": "Scotland"
     },
     {
       "number": 18,
@@ -3372,7 +3372,7 @@
       "caps": 4,
       "goals": 0,
       "club": "OB",
-      "club_nation": "Danish"
+      "club_nation": "Denmark"
     },
     {
       "number": 25,
@@ -3392,7 +3392,7 @@
       "caps": 1,
       "goals": 0,
       "club": "St Mirren",
-      "club_nation": "Scottish"
+      "club_nation": "Scotland"
     }
   ],
   "Denmark": [
@@ -3574,7 +3574,7 @@
       "caps": 44,
       "goals": 1,
       "club": "Brøndby",
-      "club_nation": "Danish"
+      "club_nation": "Denmark"
     },
     {
       "number": 19,
@@ -3604,7 +3604,7 @@
       "caps": 41,
       "goals": 9,
       "club": "Copenhagen",
-      "club_nation": "Danish"
+      "club_nation": "Denmark"
     },
     {
       "number": 22,
@@ -3654,7 +3654,7 @@
       "caps": 4,
       "goals": 1,
       "club": "Benfica",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     }
   ],
   "France": [
@@ -3928,7 +3928,7 @@
       "caps": 73,
       "goals": 0,
       "club": "Étoile du Sahel",
-      "club_nation": "Tunisian"
+      "club_nation": "Tunisia"
     },
     {
       "number": 2,
@@ -3958,7 +3958,7 @@
       "caps": 61,
       "goals": 3,
       "club": "Espérance de Tunis",
-      "club_nation": "Tunisian"
+      "club_nation": "Tunisia"
     },
     {
       "number": 5,
@@ -3968,7 +3968,7 @@
       "caps": 8,
       "goals": 0,
       "club": "Club Africain",
-      "club_nation": "Tunisian"
+      "club_nation": "Tunisia"
     },
     {
       "number": 6,
@@ -4008,7 +4008,7 @@
       "caps": 10,
       "goals": 2,
       "club": "OB",
-      "club_nation": "Danish"
+      "club_nation": "Denmark"
     },
     {
       "number": 10,
@@ -4038,7 +4038,7 @@
       "caps": 83,
       "goals": 2,
       "club": "Al Ahly",
-      "club_nation": "Egyptian"
+      "club_nation": "Egypt"
     },
     {
       "number": 13,
@@ -4058,7 +4058,7 @@
       "caps": 25,
       "goals": 1,
       "club": "Ferencváros",
-      "club_nation": "Hungarian"
+      "club_nation": "Hungary"
     },
     {
       "number": 15,
@@ -4068,7 +4068,7 @@
       "caps": 23,
       "goals": 1,
       "club": "Espérance de Tunis",
-      "club_nation": "Tunisian"
+      "club_nation": "Tunisia"
     },
     {
       "number": 16,
@@ -4078,7 +4078,7 @@
       "caps": 5,
       "goals": 0,
       "club": "CS Sfaxien",
-      "club_nation": "Tunisian"
+      "club_nation": "Tunisia"
     },
     {
       "number": 17,
@@ -4098,7 +4098,7 @@
       "caps": 31,
       "goals": 1,
       "club": "Espérance de Tunis",
-      "club_nation": "Tunisian"
+      "club_nation": "Tunisia"
     },
     {
       "number": 19,
@@ -4108,7 +4108,7 @@
       "caps": 29,
       "goals": 10,
       "club": "Zamalek",
-      "club_nation": "Egyptian"
+      "club_nation": "Egypt"
     },
     {
       "number": 20,
@@ -4118,7 +4118,7 @@
       "caps": 34,
       "goals": 3,
       "club": "Luzern",
-      "club_nation": "Swiss"
+      "club_nation": "Switzerland"
     },
     {
       "number": 21,
@@ -4128,7 +4128,7 @@
       "caps": 19,
       "goals": 0,
       "club": "Atromitos",
-      "club_nation": "Hellenic"
+      "club_nation": "Greece"
     },
     {
       "number": 22,
@@ -4138,7 +4138,7 @@
       "caps": 10,
       "goals": 0,
       "club": "US Monastir",
-      "club_nation": "Tunisian"
+      "club_nation": "Tunisia"
     },
     {
       "number": 23,
@@ -4148,7 +4148,7 @@
       "caps": 69,
       "goals": 14,
       "club": "Al-Ettifaq",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 24,
@@ -4168,7 +4168,7 @@
       "caps": 25,
       "goals": 4,
       "club": "Brøndby",
-      "club_nation": "Danish"
+      "club_nation": "Denmark"
     },
     {
       "number": 26,
@@ -4178,7 +4178,7 @@
       "caps": 20,
       "goals": 0,
       "club": "Club Africain",
-      "club_nation": "Tunisian"
+      "club_nation": "Tunisia"
     }
   ],
   "Costa Rica": [
@@ -4200,7 +4200,7 @@
       "caps": 8,
       "goals": 0,
       "club": "Cartaginés",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     },
     {
       "number": 3,
@@ -4210,7 +4210,7 @@
       "caps": 12,
       "goals": 1,
       "club": "Millonarios",
-      "club_nation": "Colombian"
+      "club_nation": "Colombia"
     },
     {
       "number": 4,
@@ -4220,7 +4220,7 @@
       "caps": 31,
       "goals": 2,
       "club": "Herediano",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     },
     {
       "number": 5,
@@ -4230,7 +4230,7 @@
       "caps": 155,
       "goals": 27,
       "club": "Alajuelense",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     },
     {
       "number": 6,
@@ -4240,7 +4240,7 @@
       "caps": 71,
       "goals": 4,
       "club": "Al-Wehda",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 7,
@@ -4250,7 +4250,7 @@
       "caps": 9,
       "goals": 2,
       "club": "Herediano",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     },
     {
       "number": 8,
@@ -4260,7 +4260,7 @@
       "caps": 76,
       "goals": 2,
       "club": "Real Salt Lake",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 9,
@@ -4280,7 +4280,7 @@
       "caps": 146,
       "goals": 29,
       "club": "Alajuelense",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     },
     {
       "number": 11,
@@ -4290,7 +4290,7 @@
       "caps": 82,
       "goals": 11,
       "club": "Alajuelense",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     },
     {
       "number": 12,
@@ -4310,7 +4310,7 @@
       "caps": 13,
       "goals": 1,
       "club": "Herediano",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     },
     {
       "number": 14,
@@ -4320,7 +4320,7 @@
       "caps": 4,
       "goals": 0,
       "club": "Saprissa",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     },
     {
       "number": 15,
@@ -4340,7 +4340,7 @@
       "caps": 7,
       "goals": 0,
       "club": "San Carlos",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     },
     {
       "number": 17,
@@ -4350,7 +4350,7 @@
       "caps": 73,
       "goals": 0,
       "club": "Herediano",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     },
     {
       "number": 18,
@@ -4360,7 +4360,7 @@
       "caps": 25,
       "goals": 0,
       "club": "Herediano",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     },
     {
       "number": 19,
@@ -4370,7 +4370,7 @@
       "caps": 63,
       "goals": 9,
       "club": "Saprissa",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     },
     {
       "number": 20,
@@ -4380,7 +4380,7 @@
       "caps": 4,
       "goals": 0,
       "club": "Guanacasteca",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     },
     {
       "number": 21,
@@ -4390,7 +4390,7 @@
       "caps": 3,
       "goals": 0,
       "club": "Herediano",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     },
     {
       "number": 22,
@@ -4400,7 +4400,7 @@
       "caps": 52,
       "goals": 3,
       "club": "FC Cincinnati",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 23,
@@ -4420,7 +4420,7 @@
       "caps": 3,
       "goals": 0,
       "club": "Municipal Grecia",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     },
     {
       "number": 25,
@@ -4430,7 +4430,7 @@
       "caps": 3,
       "goals": 1,
       "club": "Puntarenas",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     },
     {
       "number": 26,
@@ -4440,7 +4440,7 @@
       "caps": 3,
       "goals": 0,
       "club": "Saprissa",
-      "club_nation": "Costa Rican"
+      "club_nation": "Costa Rica"
     }
   ],
   "Germany": [
@@ -4809,7 +4809,7 @@
     {
       "number": 11,
       "position": "3MF",
-      "name": "Takefusa Kubo",
+      "name": "TakefUnited States Kubo",
       "dob": "2001-06-04",
       "caps": 20,
       "goals": 1,
@@ -4834,7 +4834,7 @@
       "caps": 17,
       "goals": 2,
       "club": "Sporting CP",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     },
     {
       "number": 14,
@@ -4954,7 +4954,7 @@
       "caps": 8,
       "goals": 1,
       "club": "Celtic",
-      "club_nation": "Scottish"
+      "club_nation": "Scotland"
     },
     {
       "number": 26,
@@ -5500,7 +5500,7 @@
       "caps": 2,
       "goals": 0,
       "club": "Minnesota United FC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 2,
@@ -5510,7 +5510,7 @@
       "caps": 30,
       "goals": 1,
       "club": "CF Montréal",
-      "club_nation": "Canadian"
+      "club_nation": "Canada"
     },
     {
       "number": 3,
@@ -5530,7 +5530,7 @@
       "caps": 29,
       "goals": 0,
       "club": "CF Montréal",
-      "club_nation": "Canadian"
+      "club_nation": "Canada"
     },
     {
       "number": 5,
@@ -5540,7 +5540,7 @@
       "caps": 35,
       "goals": 4,
       "club": "Chaves",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     },
     {
       "number": 6,
@@ -5550,7 +5550,7 @@
       "caps": 66,
       "goals": 0,
       "club": "CF Montréal",
-      "club_nation": "Canadian"
+      "club_nation": "Canada"
     },
     {
       "number": 7,
@@ -5560,7 +5560,7 @@
       "caps": 26,
       "goals": 3,
       "club": "Porto",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     },
     {
       "number": 8,
@@ -5580,7 +5580,7 @@
       "caps": 34,
       "goals": 18,
       "club": "Vancouver Whitecaps FC",
-      "club_nation": "Canadian"
+      "club_nation": "Canada"
     },
     {
       "number": 10,
@@ -5630,7 +5630,7 @@
       "caps": 38,
       "goals": 2,
       "club": "Toronto FC",
-      "club_nation": "Canadian"
+      "club_nation": "Canada"
     },
     {
       "number": 15,
@@ -5640,7 +5640,7 @@
       "caps": 6,
       "goals": 1,
       "club": "CF Montréal",
-      "club_nation": "Canadian"
+      "club_nation": "Canada"
     },
     {
       "number": 16,
@@ -5650,7 +5650,7 @@
       "caps": 0,
       "goals": 0,
       "club": "CF Montréal",
-      "club_nation": "Canadian"
+      "club_nation": "Canada"
     },
     {
       "number": 17,
@@ -5700,7 +5700,7 @@
       "caps": 57,
       "goals": 7,
       "club": "Toronto FC",
-      "club_nation": "Canadian"
+      "club_nation": "Canada"
     },
     {
       "number": 22,
@@ -5710,7 +5710,7 @@
       "caps": 34,
       "goals": 1,
       "club": "Toronto FC",
-      "club_nation": "Canadian"
+      "club_nation": "Canada"
     },
     {
       "number": 23,
@@ -5720,7 +5720,7 @@
       "caps": 16,
       "goals": 0,
       "club": "Basel",
-      "club_nation": "Swiss"
+      "club_nation": "Switzerland"
     },
     {
       "number": 24,
@@ -5730,7 +5730,7 @@
       "caps": 10,
       "goals": 1,
       "club": "St Johnstone",
-      "club_nation": "Scottish"
+      "club_nation": "Scotland"
     },
     {
       "number": 25,
@@ -5740,7 +5740,7 @@
       "caps": 14,
       "goals": 0,
       "club": "Panetolikos",
-      "club_nation": "Hellenic"
+      "club_nation": "Greece"
     },
     {
       "number": 26,
@@ -5750,7 +5750,7 @@
       "caps": 2,
       "goals": 0,
       "club": "CF Montréal",
-      "club_nation": "Canadian"
+      "club_nation": "Canada"
     }
   ],
   "Croatia": [
@@ -5762,7 +5762,7 @@
       "caps": 34,
       "goals": 0,
       "club": "Dinamo Zagreb",
-      "club_nation": "Croatian"
+      "club_nation": "Croatia"
     },
     {
       "number": 2,
@@ -5782,7 +5782,7 @@
       "caps": 28,
       "goals": 1,
       "club": "Rangers",
-      "club_nation": "Scottish"
+      "club_nation": "Scotland"
     },
     {
       "number": 4,
@@ -5812,7 +5812,7 @@
       "caps": 72,
       "goals": 5,
       "club": "Zenit Saint Petersburg",
-      "club_nation": "Russian"
+      "club_nation": "Russia"
     },
     {
       "number": 7,
@@ -5892,7 +5892,7 @@
       "caps": 14,
       "goals": 3,
       "club": "Hajduk Split",
-      "club_nation": "Croatian"
+      "club_nation": "Croatia"
     },
     {
       "number": 15,
@@ -5912,7 +5912,7 @@
       "caps": 23,
       "goals": 6,
       "club": "Dinamo Zagreb",
-      "club_nation": "Croatian"
+      "club_nation": "Croatia"
     },
     {
       "number": 17,
@@ -5932,7 +5932,7 @@
       "caps": 21,
       "goals": 1,
       "club": "Dinamo Zagreb",
-      "club_nation": "Croatian"
+      "club_nation": "Croatia"
     },
     {
       "number": 19,
@@ -5962,7 +5962,7 @@
       "caps": 100,
       "goals": 4,
       "club": "AEK Athens",
-      "club_nation": "Hellenic"
+      "club_nation": "Greece"
     },
     {
       "number": 22,
@@ -5972,7 +5972,7 @@
       "caps": 21,
       "goals": 0,
       "club": "Celtic",
-      "club_nation": "Scottish"
+      "club_nation": "Scotland"
     },
     {
       "number": 23,
@@ -5982,7 +5982,7 @@
       "caps": 5,
       "goals": 0,
       "club": "Osijek",
-      "club_nation": "Croatian"
+      "club_nation": "Croatia"
     },
     {
       "number": 24,
@@ -5992,7 +5992,7 @@
       "caps": 3,
       "goals": 0,
       "club": "Dinamo Zagreb",
-      "club_nation": "Croatian"
+      "club_nation": "Croatia"
     },
     {
       "number": 25,
@@ -6002,7 +6002,7 @@
       "caps": 4,
       "goals": 0,
       "club": "Red Bull Salzburg",
-      "club_nation": "Austrian"
+      "club_nation": "Austria"
     },
     {
       "number": 26,
@@ -6104,7 +6104,7 @@
       "caps": 18,
       "goals": 6,
       "club": "Al-Ittihad",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 10,
@@ -6134,7 +6134,7 @@
       "caps": 43,
       "goals": 0,
       "club": "Al-Wehda",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 13,
@@ -6234,7 +6234,7 @@
       "caps": 3,
       "goals": 0,
       "club": "Wydad AC",
-      "club_nation": "Moroccan"
+      "club_nation": "Morocco"
     },
     {
       "number": 23,
@@ -6264,7 +6264,7 @@
       "caps": 2,
       "goals": 0,
       "club": "Wydad AC",
-      "club_nation": "Moroccan"
+      "club_nation": "Morocco"
     },
     {
       "number": 26,
@@ -6274,7 +6274,7 @@
       "caps": 5,
       "goals": 0,
       "club": "Wydad AC",
-      "club_nation": "Moroccan"
+      "club_nation": "Morocco"
     }
   ],
   "Brazil": [
@@ -6396,7 +6396,7 @@
       "caps": 8,
       "goals": 0,
       "club": "Palmeiras",
-      "club_nation": "Brazilian Confederation"
+      "club_nation": "Brazil"
     },
     {
       "number": 13,
@@ -6496,7 +6496,7 @@
       "caps": 21,
       "goals": 3,
       "club": "Flamengo",
-      "club_nation": "Brazilian Confederation"
+      "club_nation": "Brazil"
     },
     {
       "number": 23,
@@ -6526,7 +6526,7 @@
       "caps": 2,
       "goals": 1,
       "club": "Flamengo",
-      "club_nation": "Brazilian Confederation"
+      "club_nation": "Brazil"
     },
     {
       "number": 26,
@@ -6558,7 +6558,7 @@
       "caps": 2,
       "goals": 0,
       "club": "Colombe Sportive",
-      "club_nation": "Cameroonian"
+      "club_nation": "Cameroon"
     },
     {
       "number": 3,
@@ -6568,7 +6568,7 @@
       "caps": 79,
       "goals": 2,
       "club": "Aris",
-      "club_nation": "Hellenic"
+      "club_nation": "Greece"
     },
     {
       "number": 4,
@@ -6598,7 +6598,7 @@
       "caps": 42,
       "goals": 4,
       "club": "Dynamo Moscow",
-      "club_nation": "Russian"
+      "club_nation": "Russia"
     },
     {
       "number": 7,
@@ -6628,7 +6628,7 @@
       "caps": 4,
       "goals": 0,
       "club": "Young Boys",
-      "club_nation": "Swiss"
+      "club_nation": "Switzerland"
     },
     {
       "number": 10,
@@ -6638,7 +6638,7 @@
       "caps": 92,
       "goals": 33,
       "club": "Al-Nassr",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 11,
@@ -6648,7 +6648,7 @@
       "caps": 44,
       "goals": 7,
       "club": "Shanghai Shenhua",
-      "club_nation": "Chinese"
+      "club_nation": "China"
     },
     {
       "number": 12,
@@ -6688,7 +6688,7 @@
       "caps": 33,
       "goals": 1,
       "club": "Olympiacos",
-      "club_nation": "Hellenic"
+      "club_nation": "Greece"
     },
     {
       "number": 16,
@@ -6698,7 +6698,7 @@
       "caps": 5,
       "goals": 0,
       "club": "Abha",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 17,
@@ -6708,7 +6708,7 @@
       "caps": 11,
       "goals": 0,
       "club": "Philadelphia Union",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 18,
@@ -6728,7 +6728,7 @@
       "caps": 53,
       "goals": 0,
       "club": "Al-Tai",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 20,
@@ -6788,7 +6788,7 @@
       "caps": 19,
       "goals": 0,
       "club": "Seattle Sounders FC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 26,
@@ -6798,7 +6798,7 @@
       "caps": 3,
       "goals": 1,
       "club": "Coton Sport",
-      "club_nation": "Cameroonian"
+      "club_nation": "Cameroon"
     }
   ],
   "Serbia": [
@@ -6820,7 +6820,7 @@
       "caps": 22,
       "goals": 1,
       "club": "Red Bull Salzburg",
-      "club_nation": "Austrian"
+      "club_nation": "Austria"
     },
     {
       "number": 3,
@@ -6940,7 +6940,7 @@
       "caps": 29,
       "goals": 1,
       "club": "PAOK",
-      "club_nation": "Hellenic"
+      "club_nation": "Greece"
     },
     {
       "number": 15,
@@ -6990,7 +6990,7 @@
       "caps": 9,
       "goals": 0,
       "club": "Braga",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     },
     {
       "number": 20,
@@ -7050,7 +7050,7 @@
       "caps": 20,
       "goals": 1,
       "club": "Legia Warsaw",
-      "club_nation": "Polish"
+      "club_nation": "Poland"
     },
     {
       "number": 26,
@@ -7060,7 +7060,7 @@
       "caps": 18,
       "goals": 0,
       "club": "Porto",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     }
   ],
   "Switzerland": [
@@ -7172,7 +7172,7 @@
       "caps": 28,
       "goals": 1,
       "club": "Lugano",
-      "club_nation": "Swiss"
+      "club_nation": "Switzerland"
     },
     {
       "number": 12,
@@ -7222,7 +7222,7 @@
       "caps": 16,
       "goals": 4,
       "club": "Young Boys",
-      "club_nation": "Swiss"
+      "club_nation": "Switzerland"
     },
     {
       "number": 17,
@@ -7252,7 +7252,7 @@
       "caps": 9,
       "goals": 2,
       "club": "Red Bull Salzburg",
-      "club_nation": "Austrian"
+      "club_nation": "Austria"
     },
     {
       "number": 20,
@@ -7262,7 +7262,7 @@
       "caps": 22,
       "goals": 3,
       "club": "Basel",
-      "club_nation": "Swiss"
+      "club_nation": "Switzerland"
     },
     {
       "number": 21,
@@ -7292,7 +7292,7 @@
       "caps": 109,
       "goals": 26,
       "club": "Chicago Fire FC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 24,
@@ -7302,7 +7302,7 @@
       "caps": 0,
       "goals": 0,
       "club": "Red Bull Salzburg",
-      "club_nation": "Austrian"
+      "club_nation": "Austria"
     },
     {
       "number": 25,
@@ -7312,7 +7312,7 @@
       "caps": 0,
       "goals": 0,
       "club": "Young Boys",
-      "club_nation": "Swiss"
+      "club_nation": "Switzerland"
     },
     {
       "number": 26,
@@ -7322,7 +7322,7 @@
       "caps": 1,
       "goals": 0,
       "club": "Luzern",
-      "club_nation": "Swiss"
+      "club_nation": "Switzerland"
     }
   ],
   "Ghana": [
@@ -7334,7 +7334,7 @@
       "caps": 11,
       "goals": 0,
       "club": "St. Gallen",
-      "club_nation": "Swiss"
+      "club_nation": "Switzerland"
     },
     {
       "number": 2,
@@ -7394,7 +7394,7 @@
       "caps": 13,
       "goals": 1,
       "club": "Sporting CP",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     },
     {
       "number": 8,
@@ -7616,7 +7616,7 @@
       "caps": 129,
       "goals": 7,
       "club": "Porto",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     },
     {
       "number": 4,
@@ -7756,7 +7756,7 @@
       "caps": 53,
       "goals": 3,
       "club": "Benfica",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     },
     {
       "number": 18,
@@ -7796,7 +7796,7 @@
       "caps": 6,
       "goals": 1,
       "club": "Braga",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     },
     {
       "number": 22,
@@ -7806,7 +7806,7 @@
       "caps": 7,
       "goals": 0,
       "club": "Porto",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     },
     {
       "number": 23,
@@ -7826,7 +7826,7 @@
       "caps": 1,
       "goals": 0,
       "club": "Benfica",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     },
     {
       "number": 25,
@@ -7836,7 +7836,7 @@
       "caps": 8,
       "goals": 2,
       "club": "Porto",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     },
     {
       "number": 26,
@@ -7846,7 +7846,7 @@
       "caps": 1,
       "goals": 1,
       "club": "Benfica",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     }
   ],
   "South Korea": [
@@ -7858,7 +7858,7 @@
       "caps": 67,
       "goals": 0,
       "club": "Al-Shabab",
-      "club_nation": "Saudi Arabian"
+      "club_nation": "Saudi Arabia"
     },
     {
       "number": 2,
@@ -7868,7 +7868,7 @@
       "caps": 4,
       "goals": 0,
       "club": "FC Seoul",
-      "club_nation": "Korea"
+      "club_nation": "South Korea"
     },
     {
       "number": 3,
@@ -7878,7 +7878,7 @@
       "caps": 61,
       "goals": 2,
       "club": "Jeonbuk Hyundai Motors",
-      "club_nation": "Korea"
+      "club_nation": "South Korea"
     },
     {
       "number": 4,
@@ -7908,7 +7908,7 @@
       "caps": 37,
       "goals": 4,
       "club": "Olympiacos",
-      "club_nation": "Hellenic"
+      "club_nation": "Greece"
     },
     {
       "number": 7,
@@ -7928,7 +7928,7 @@
       "caps": 14,
       "goals": 2,
       "club": "Jeonbuk Hyundai Motors",
-      "club_nation": "Korea"
+      "club_nation": "South Korea"
     },
     {
       "number": 9,
@@ -7938,7 +7938,7 @@
       "caps": 16,
       "goals": 4,
       "club": "Jeonbuk Hyundai Motors",
-      "club_nation": "Korea"
+      "club_nation": "South Korea"
     },
     {
       "number": 10,
@@ -7968,7 +7968,7 @@
       "caps": 1,
       "goals": 0,
       "club": "Jeonbuk Hyundai Motors",
-      "club_nation": "Korea"
+      "club_nation": "South Korea"
     },
     {
       "number": 13,
@@ -7978,7 +7978,7 @@
       "caps": 15,
       "goals": 0,
       "club": "Shandong Taishan",
-      "club_nation": "Chinese"
+      "club_nation": "China"
     },
     {
       "number": 14,
@@ -7988,7 +7988,7 @@
       "caps": 46,
       "goals": 1,
       "club": "Daegu FC",
-      "club_nation": "Korea"
+      "club_nation": "South Korea"
     },
     {
       "number": 15,
@@ -7998,7 +7998,7 @@
       "caps": 22,
       "goals": 0,
       "club": "Jeonbuk Hyundai Motors",
-      "club_nation": "Korea"
+      "club_nation": "South Korea"
     },
     {
       "number": 16,
@@ -8008,7 +8008,7 @@
       "caps": 49,
       "goals": 16,
       "club": "Olympiacos",
-      "club_nation": "Hellenic"
+      "club_nation": "Greece"
     },
     {
       "number": 17,
@@ -8018,7 +8018,7 @@
       "caps": 24,
       "goals": 2,
       "club": "FC Seoul",
-      "club_nation": "Korea"
+      "club_nation": "South Korea"
     },
     {
       "number": 18,
@@ -8038,7 +8038,7 @@
       "caps": 96,
       "goals": 6,
       "club": "Ulsan Hyundai",
-      "club_nation": "Korea"
+      "club_nation": "South Korea"
     },
     {
       "number": 20,
@@ -8058,7 +8058,7 @@
       "caps": 22,
       "goals": 0,
       "club": "Ulsan Hyundai",
-      "club_nation": "Korea"
+      "club_nation": "South Korea"
     },
     {
       "number": 22,
@@ -8068,7 +8068,7 @@
       "caps": 42,
       "goals": 12,
       "club": "Gimcheon Sangmu",
-      "club_nation": "Korea"
+      "club_nation": "South Korea"
     },
     {
       "number": 23,
@@ -8078,7 +8078,7 @@
       "caps": 19,
       "goals": 0,
       "club": "Ulsan Hyundai",
-      "club_nation": "Korea"
+      "club_nation": "South Korea"
     },
     {
       "number": 24,
@@ -8088,7 +8088,7 @@
       "caps": 4,
       "goals": 0,
       "club": "Daejeon Hana Citizen",
-      "club_nation": "Korea"
+      "club_nation": "South Korea"
     },
     {
       "number": 25,
@@ -8108,7 +8108,7 @@
       "caps": 13,
       "goals": 1,
       "club": "Jeonbuk Hyundai Motors",
-      "club_nation": "Korea"
+      "club_nation": "South Korea"
     }
   ],
   "Uruguay": [
@@ -8200,7 +8200,7 @@
       "caps": 134,
       "goals": 68,
       "club": "Nacional",
-      "club_nation": "Uruguayan"
+      "club_nation": "Uruguay"
     },
     {
       "number": 10,
@@ -8210,7 +8210,7 @@
       "caps": 40,
       "goals": 8,
       "club": "Flamengo",
-      "club_nation": "Brazilian Confederation"
+      "club_nation": "Brazil"
     },
     {
       "number": 11,
@@ -8240,7 +8240,7 @@
       "caps": 9,
       "goals": 0,
       "club": "Flamengo",
-      "club_nation": "Brazilian Confederation"
+      "club_nation": "Brazil"
     },
     {
       "number": 14,
@@ -8300,7 +8300,7 @@
       "caps": 47,
       "goals": 1,
       "club": "Sporting CP",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     },
     {
       "number": 20,
@@ -8310,7 +8310,7 @@
       "caps": 10,
       "goals": 0,
       "club": "Orlando City SC",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 21,
@@ -8330,7 +8330,7 @@
       "caps": 115,
       "goals": 4,
       "club": "LA Galaxy",
-      "club_nation": "USA"
+      "club_nation": "United States"
     },
     {
       "number": 23,
@@ -8340,7 +8340,7 @@
       "caps": 8,
       "goals": 0,
       "club": "Nacional",
-      "club_nation": "Uruguayan"
+      "club_nation": "Uruguay"
     },
     {
       "number": 24,
@@ -8350,7 +8350,7 @@
       "caps": 3,
       "goals": 0,
       "club": "Athletico Paranaense",
-      "club_nation": "Brazilian Confederation"
+      "club_nation": "Brazil"
     },
     {
       "number": 25,
@@ -8360,7 +8360,7 @@
       "caps": 6,
       "goals": 0,
       "club": "Sporting CP",
-      "club_nation": "Portuguese"
+      "club_nation": "Portugal"
     },
     {
       "number": 26,
@@ -8370,7 +8370,7 @@
       "caps": 0,
       "goals": 0,
       "club": "Nacional",
-      "club_nation": "Uruguayan"
+      "club_nation": "Uruguay"
     }
   ]
 }
