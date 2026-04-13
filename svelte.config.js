@@ -1,4 +1,4 @@
-import adapter from '@sveltejs/adapter-vercel';
+import adapter from '@sveltejs/adapter-static';
 import { relative, sep } from 'node:path';
 
 /** @type {import('@sveltejs/kit').Config} */
@@ -13,7 +13,7 @@ const config = {
 			return isExternalLibrary ? undefined : true;
 		}
 	},
-	kit: { adapter: adapter() }
+	kit: { adapter: adapter({ fallback: '404.html' }) }
 };
 
 export default config;
